@@ -1,2 +1,7 @@
--- Cracked by Zolo
+--[[
+Obfuscatored by Zolo Obfuscator
+discord: unknown
+2025 Zolo Obfuscator®
+]]
+
 loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/575f432b7045e13328ec309a872705a4"))()
